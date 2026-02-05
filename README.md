@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://upbeat-cartwheel-31b.notion.site/215c6e685f1080f7bff0ca1f2c5537f8"><img src="https://img.shields.io/badge/포트폴리오-000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="mailto:suzi97@naver.com"><img src="https://img.shields.io/badge/이메일-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dianaheo.dev@gmail.com"><img src="https://img.shields.io/badge/이메일-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sooyeon-h797201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
