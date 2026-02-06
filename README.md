@@ -1,7 +1,7 @@
 <h2 align="center">안녕하세요 👋 백엔드 개발자 허수연입니다</h2>
 
 <p align="center">
-  Backend Developer | Java · Spring Boot · Redis · React  
+  Backend Developer | Java · Python · Spring Boot · LangChain · Redis · React  
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## 🧑🏻‍💻 주요 프로젝트
 
-- 🧭 **로컬라이프 – 지역 사회 순환형 청년 체험 플랫폼** `2025 K-디지털트레이닝 해커톤 참가팀 선정` 
+- 🧭 **로컬라이프 – 지역 사회 순환형 청년 체험 플랫폼** `2025 K-디지털트레이닝 해커톤 예선 진출` 
 
   청년이 AI 기반 적성 진단을 통해 자신에게 맞는 직무를 발견하고,  
   해당 적성에 맞는 **로컬 크리에이터**가 등록한 직업 체험 프로그램을 예약·참여할 수 있는 플랫폼.  
